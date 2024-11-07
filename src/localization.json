@@ -1,0 +1,250 @@
+[
+  {
+    "1": "A. 6 tháng",
+    "2": "B. 12 tháng",
+    "3": "C. 18 tháng",
+    "4": "D. 24 tháng",
+    "ID": "ILP-VIDI-1",
+    "question": "Thời hạn yêu cầu giải quyết QLBH là bao lâu (tính từ ngày Người nhận QLBH biết sự kiện bảo hiểm xảy ra)?",
+    "answer": "2"
+  },
+  {
+    "1": "A. Kể từ ngày Công ty nhận được hồ sơ yêu cầu GQQLBH đầy đủ và hợp lệ",
+    "2": "B. Kể từ ngày Công ty nhận được hồ sơ yêu cầu GQQLBH ",
+    "3": "C. Kể từ ngày Công ty nhận được hồ sơ yêu cầu GQQLBH hợp lệ",
+    "4": "D. Kể từ ngày Công ty nhận được hồ sơ yêu sơ yêu cầu GQQLBH sơ yêu cầu GQQLBH đầy đủ",
+    "ID": "ILP-VIDI-2",
+    "question": "Thời hạn Giải quyết QLBH là 30 ngày được tính từ ngày nào?",
+    "answer": "1"
+  },
+  {
+    "1": "A. Gửi về các Văn phòng DVKH của Hanwha Life Việt Nam trên toàn quốc",
+    "2": "B. Nộp online qua Customer Portal",
+    "3": "C. Nộp online qua ứng dụng Hanwha dụng Hanwha Life+",
+    "4": "D. Nộp online (qua Customer Portal hoặc ứng dụng Hanwha dụng Hanwha Life+) hoặc gửi về các Văn phòng DVKH của Hanwha Life Việt Nam trên toàn quốc",
+    "ID": "ILP-VIDI-3",
+    "question": "Ngoại trừ hồ sơ yêu cầu Giải quyết QLBH cho sản phẩm Bồi hoàn chi phí thực tế/ Chăm sóc y tế toàn cầu, Khách hàng có thể yêu cầu giải quyết QLBH bằng cách nào?",
+    "answer": "4"
+  },
+  {
+    "1": "A. Nhận tiền mặt tại Quầy dịch vụ khách hàng (với số tiền tối đa là 20 triệu đồng)",
+    "2": "B. Chuyển khoản (thông qua số tài |khoản ngân hàng) hoặc Nhận tiền mặt |tại Ngân hàng bằng CMND/CCCD",
+    "3": "C. Chuyển đóng phí cho hợp đồng có cùng Bên mua bảo hiểm",
+    "4": "D. Tất cả đều đúng",
+    "ID": "ILP-VIDI-4",
+    "question": "Khách hàng được lựa chọn phương thức thanh toán nào khi yêu cầu giải quyết QLBH?",
+    "answer": "4"
+  },
+  {
+    "1": "A. Kết quả siêu âm",
+    "2": "B. Phim X-quang",
+    "3": "C. Kết quả giải phẫu bệnh lý/ Chứng từ y khoa chẩn đoán xác định Bệnh hiểm nghèo",
+    "4": "D. Xét nghiệm máu",
+    "ID": "ILP-VIDI-5",
+    "question": "Chứng từ cần thiết và quan trọng nhất khi nộp yêu cầu giải quyết QLBH Bệnh hiểm nghèo?",
+    "answer": "3"
+  },
+  {
+    "1": "A. Công ty từ chối giải quyết QLBH",
+    "2": "B. Công ty không bảo lãnh viện phí do trường hợp của khách hàng chưa thỏa tiêu chí bảo lãnh viện phí. Khách hàng cần thực hiện tự thanh toán chi phí điều trị , lấy chứng từ nộp yêu cầu giải quyết QLBH sau.",
+    "3": "C. Công ty không bảo lãnh viện phí,khách hàng tự thanh toán chi phí và không thể nộp yêu cầu giải quyết QLBH nữa",
+    "4": "D. Khách hàng không có quyền lợi bảo hiểm",
+    "ID": "ILP-VIDI-6",
+    "question": "Việc Công ty thông báo không bảo lãnh viện phí đối với trường hợp claim của sản phẩm Bảo hiểm Bồi hoàn chi phí y tế thực tế (RITO10) và sản phẩm Bảo hiểm Chăm sóc y tế toàn cầu (RIT020) được hiểu như thế nào?",
+    "answer": "2"
+  },
+  {
+    "1": "A. 25 ngày",
+    "2": "B. 20 ngày",
+    "3": "C. 30 ngày",
+    "4": "D. 15 ngày",
+    "ID": "ILP-VIDI-7",
+    "question": "Trường hợp hồ sơ yêu cầu giải quyết QLBH cần bổ sung thông tin, thời gian để Khách hàng bổ sung là bao nhiêu ngày tính từ ngày có yêu cầu bổ sung từ HLV? ",
+    "answer": "3"
+  },
+  {
+    "1": "A. Gửi email về địa chỉ email: claimcare@hanwhalife.com.vn",
+    "2": "B. Gửi email về địa chỉ email: claims@hanwhalife.com.vn",
+    "3": "C. Gọi điện thoại về tổng đài Công ty",
+    "4": "D. Gửi email cho cấp quản lý hoặc trưởng bộ phận thẩm định @ giải quyết QLBH",
+    "ID": "ILP-VIDI-8",
+    "question": "Trường hợp Khách hàng/ Tư vấn tài chính có thắc mắc liên quan quyết định Giải quyết QLBH, cách tốt nhất để nhận được sự hỗ trợ giải quyết nhanh chóng từ Phòng Giải quyết QLBH là cách nào?",
+    "answer": "1"
+  },
+  {
+    "1": "A. Bệnh Viện Quân Y",
+    "2": "B. Bệnh Viện Chỉnh Hình và Phục Hồi Chức Năng",
+    "3": "C. Bệnh Viện Y Học Cổ Truyền",
+    "4": "D. Bệnh viện đa khoa huyện",
+    "ID": "ILP-VIDI-9",
+    "question": "Cơ sở y tế nào sau đây không thỏa định nghĩa \"Bệnh viện\" trong sản phẩm Hỗ trợ viện phí và phẫu thuật mở rộng (RHS010)?",
+    "answer": "3"
+  },
+  {
+    "1": "A. 500% Số tiền bảo hiểm của sản phẩm bảo hiểm bổ sung",
+    "2": "B. 600% Số tiền bảo hiểm của sản phẩm bảo hiểm bổ sung",
+    "3": "C. 3 lần x số ngày nằm viện",
+    "4": "D. Chi trả tối đa theo nhóm bệnh được quy định tại điều khoản",
+    "ID": "ILP-VIDI-10",
+    "question": "Quyền lợi hỗ trợ phẫu thuật của sản phẩm Hỗ trợ viện phí và phẫu thuật mở rộng (RHS010) và sản phẩm Hỗ trợ Viện phí toàn cầu (RHI010) là bao nhiêu?",
+    "answer": "2"
+  },
+  {
+    "1": "A. Hệ thống AMS",
+    "2": "B. Hệ thống FC Portal",
+    "3": "C. Website của công ty",
+    "4": "D. Hanwha Life+/ CPO",
+    "ID": "ILP-VIDI-11",
+    "question": "TVTC có thể xem Danh sách Chậm bàn giao Hợp đồng trên hệ thống nào?",
+    "answer": "2"
+  },
+  {
+    "1": "A. Hệ thống AMS",
+    "2": "B. Hệ thống FC Portal",
+    "3": "C. Website của công ty",
+    "4": "D. Hanwha Life+/ CPO",
+    "ID": "ILP-VIDI-12",
+    "question": "AD có thể xem Truy xuất danh sách chậm bàn giao (DS chậm bàn giao HĐBH) trên hệ thống nào?",
+    "answer": "1"
+  },
+  {
+    "1": "A. Sử dụng dấu khắc tên đóng trên các Hồ Sơ chứng từ hoặc ghi Họ tên bằng chữ in hoa",
+    "2": "B. Chi ký tên nhưng không ghi họ tên trên các Hồ Sơ/ chứng từ",
+    "3": "C. Sử dụng bút bay màu",
+    "4": "D. Cả 3 đáp án đều đúng",
+    "ID": "ILP-VIDI-13",
+    "question": "Các trường hợp nào sau đây TVTC không được sử dụng?",
+    "answer": "4"
+  },
+  {
+    "1": "A. Khi Khách hàng nộp kỳ phi đầu tiên",
+    "2": "B. Khi HSYCBH được ghi nhận vô hệ thống",
+    "3": "C. Khi HĐBH đã có xác nhận hoàn tất |việc bàn giao HĐBH",
+    "4": "D. Khi HĐBH đã có xác nhận hoàn tất việc bàn giao HDBH",
+    "ID": "ILP-VIDI-14",
+    "question": "Call Center thực hiện Welcome Call với các HĐBH trong trường hợp nào?",
+    "answer": "4"
+  },
+  {
+    "1": "A. Không cần làm gì",
+    "2": "B. Theo dõi báo cáo trên hệ thống AMS và đôn đốc FC liên hệ Khách hàng để phản hồi thông tin trên FC portal trong vòng 5 ngày làm việc kể từ ngày ghi nhận kết quả Welcome Call chưa thành công.",
+    "3": "C. Gọi Hotline",
+    "ID": "ILP-VIDI-15",
+    "question": "AD cần thực hiện gì với những hợp đồng có kết quả Welcome call chưa thành công?",
+    "answer": "2"
+  },
+  {
+    "1": "A. Khách hàng không biết tư vấn đứng tên trên. B. Khách hàng không nộp phí để tham |gia HSYCBH",
+    "2": "B.   Khách hàng không nộp phí để tham gia HSYCBH",
+    "3": "C. Khách hàng không kê khai thông tin |và không ký tên trên HSYCBH",
+    "4": "D. Cả 3 đáp án đều đúng",
+    "ID": "ILP-VIDI-16",
+    "question": "Thông qua nội dung khách hàng chia sẽ khi Call Center thực hiện Welcome Call, trường hợp nào sau đây thuộc loại HĐBH có nghi vấn (Investigation)?",
+    "answer": "4"
+  },
+  {
+    "1": "A. Hạng mức Kim Cương: Tổng phí đóng quy năm của các HĐ đã qua thời gian cân nhắc; |đang còn hiệu lực đạt từ 250 (hai trăm năm mươi) triệu đồng trở lên (trừ sản phẩm An Khang Bảo Gia Toàn Diện và sản phẩm bán qua kênh online/ sàn thương mại)",
+    "2": "B. Hạng mức vàng, tổng phí đóng quỹ năm của các HĐ đã qua thời gian cân nhắc đang còn hiệu lực, đạt từ 100 triệu |đến dưới 250 triệu đồng (trừ sản phẩm |An Khang Bảo Gia Toàn Diện và sản phẩm bán qua kênh online/ sàn thương",
+    "3": "C. Hạng … năm của các HĐ đã qua thời gian côn đến dưới 100 triệu đồng (trừ sản phẩm nhắc đang còn hiệu lực đạt từ 50 triệu An Khang Bảo Gia Toàn Diện và sản phẩm bán qua kênh online/ sàn thương mai)",
+    "4": "D. Cả 3 đáp án đều đúng",
+    "ID": "ILP-VIDI-17",
+    "question": "Các hạng mức Khách hàng VIP của Công ty?",
+    "answer": "4"
+  },
+  {
+    "1": "A. Sau khi đăng nhập ứng dụng Hanwha Life+ của Hanwha Life Việt Nam và nhấp chọn \"Đổi Quà\". khách hàng nhập tên sản phẩm quà tặng tại thanh công cụ TÌM KIẾM trên màn hình trang chủ.",
+    "2": "B. Sau ki uang map ung dung rawa |Life+ của Hanwha Life Việt Nam và nhấp chọn \"Đổi Quà\", khách hàng lựa chọn loại \"Quà tặng E-voucher\" hoặc |\"Quà tặng Vật lý\" trên màn hình trang chủ hoặc trên thanh Menu với biểu sea để tìm kiếm",
+    "3": "C. Cả câu a & b đều đúng",
+    "ID": "ILP-VIDI-18",
+    "question": "Khách hàng có thể sử dụng điểm loyalty đổi quà trên ứng dụng Hanwha Life+ bằng cách nào?",
+    "answer": "3"
+  },
+  {
+    "1": "A. UrBox",
+    "2": "B. Tiki",
+    "3": "C. Hanwha",
+    "4": "D. Cả 3 đáp án đều đúng",
+    "ID": "ILP-VIDI-19",
+    "question": "Đối tác cung cấp quà tặng cho chương trình Loyalty của Công ty thông qua Hanwha Life+ là?",
+    "answer": "1"
+  },
+  {
+    "1": "A. Điện thoại iPhone có hệ điều hành iOS 12 trở lên",
+    "2": "B. Điện thoại Android có hệ điều hành |Android 7 trở lên",
+    "3": "C. Bất kỳ loại điện thoại nào cũng được",
+    "4": "D. Câu a và b đúng",
+    "ID": "ILP-VIDI-20",
+    "question": "Thiết bị cài đặt Hanwha Life+ có những lưu ý gì không?",
+    "answer": "4"
+  },
+  {
+    "1": "A. In trên Giấy Chứng nhận HĐ bảo hiểm",
+    "2": "B. Công ty gửi email cho KH khi HĐ được phát hành",
+    "3": "C. Công ty gửi SMS đến số điện thoại",
+    "4": "D. Cả 3 đáp án đều đúng",
+    "ID": "ILP-VIDI-21",
+    "question": "KH tìm thấy Tên và Mật khẩu đăng nhập App Hanwha Life+/web CPO ở đâu?",
+    "answer": "3"
+  },
+  {
+    "1": "A. Khách hàng liên hệ TVTC",
+    "2": "B. Khách hàng làm đơn yêu cầu cấp lại quên tài khoản?”",
+    "3": "C. Khách hàng sử dụng tính năng \"Bạn quên tài khoản?\" tại màn hình đăng nhập  trên Hanwha Life+/CPO để dễ dàng yêu cầu hệ thống gửi lại thông tin tài khoản.",
+    "4": "D. Cả 3 đáp án đều đúng ",
+    "ID": "ILP-VIDI-22",
+    "question": "Khách hàng tham gia bảo hiểm của HLV cần làm gì nếu quên tài khoản đăng nhập Hanwha Life+/CPO?",
+    "answer": "3"
+  },
+  {
+    "1": "A. Tên và mật khẩu đăng nhập Hanwha Life+ khác với Tên và mật khẩu đăng nhập CPO",
+    "2": "B. Cùng sử dụng chung Tên và mật khẩu",
+    "3": "C. Trùng tên nhưng khác mật khẩu đăng nhập",
+    "4": "D. Trùng mật khẩu nhưng khác tên đăng nhập",
+    "ID": "ILP-VIDI-23",
+    "question": "Tên và Mật khẩu đăng nhập Hanwha Life+/CPO:",
+    "answer": "2"
+  },
+  {
+    "1": "A. Giống hoàn toàn",
+    "2": "B. Khác hoàn toàn",
+    "3": "C. Có những điểm giống và khác nhau do hiện nay công ty đang tập trung xây dung Hanwha Life+",
+    "ID": "ILP-VIDI-24",
+    "question": "Các nghiệp vụ Khách hàng có thể thực hiện yêu cầu trên Hanwha Life+ và trên CPO giống hay khác nhau?",
+    "answer": "1"
+  },
+  {
+    "1": "A. 21 ngày kể từ ngày KH nhận được |bộ hợp đồng bảo hiểm, và với điều kiện là chưa xảy ra sự kiện bảo hiểm hoặc chưa có yêu cầu giải quyết quyền lợi bảo hiểm nào. Ví dụ cụ thể: ngày xác nhận ACK là 06/09/2022, thì ngày kết thúc thời gian xem xét lại là 26/09/2022",
+    "2": "B. 21 ngày kể từ ngày KH nhận được bộ hợp đồng bảo hiểm, và với điều kiện là chưa xảy ra sự kiện bảo hiểm hoặc chưa có yêu cầu giải quyết quyền lợi bảo hiểm nào. Ví dụ cụ thể: ngày xác nhận ACK là 06/09/2022, thì ngày kết thúc thời gian xem xét lại là 27/09/2022",
+    "3": "C. 21 ngày kể từ ngày KH nhận được bộ hợp đồng bảo hiểm,Ví dụ cụ thể: ngày xác nhận ACK là 06/09/2022, thì ngày kết thúc thời gian xem xét lại là 27/09/2022",
+    "ID": "ILP-VIDI-25",
+    "question": "Thời gian xem xét lại (Freelook) theo quy định tại Hợp đồng bảo hiểm được tính như thế nào?",
+    "answer": "2"
+  },
+  {
+    "1": "A. Tham gia thêm sản phẩm bổ sung trong |Thời gian xem xét lại (freelook) và ngoài freelook (theo quy định của từng sản phẩm bổ sung hiện hành)",
+    "2": "B. Hủy sản phẩm bổ sung trong freelook và ngoài freelook (theo quy định của từng sản phẩm bổ sung hiện hành)",
+    "3": "C. Rút tiền từ giá trị tài khoản hợp đồng ",
+    "4": "D. Cả 3 đáp án đều đúng",
+    "ID": "ILP-VIDI-26",
+    "question": "Các nghiệp vụ có thể thực hiện với hợp đồng ILP là:",
+    "answer": "4"
+  },
+  {
+    "1": "A. Sau thời gian xem xét lại (freelook)",
+    "2": "B. Bất cứ lúc nào khi phí bảo hiểm được nhập vào hợp đồng",
+    "3": "C. Câu a và b đều đúng",
+    "4": "D. Câu a và b sai",
+    "ID": "ILP-VIDI-27",
+    "question": "Phí bảo hiểm đóng thêm của hợp đồng ILP được phân bổ vào tài khoản đóng thêm khi nào?",
+    "answer": "1"
+  },
+  {
+    "1": "A. Hợp đồng bảo hiểm vẫn tiếp tục bình thường và không thay đổi phí",
+    "2": "B. Hợp đồng bảo hiểm sẽ bị chấm dứt hiệu lực và hoàn lại cho khách hàng giá trị như Điều khoản sản phẩm ILP quy định",
+    "3": "C. Hợp đồng bảo hiểm sẽ được điều chỉnh lại số tiền bảo hiểm, phí bảo hiểm cơ bản và chi phí bảo hiểm rủi ro theo tuổi đúng",
+    "4": "D. Hợp đồng bảo hiểm sẽ bị chấm dứt hiệu lực và không có giá trị hoàn lại như Điều khoản sản phẩm |ILP quy định",
+    "ID": "ILP-VIDI-28",
+    "question": "Nếu khách hàng kê khai nhằm tuổi, theo tuổi đúng của Người được bảo hiểm chính làm thay đổi Thời hạn của hợp đồng ILP thì sẽ xử lý như thế nào?",
+    "answer": "2"
+  }
+]
